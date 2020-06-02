@@ -13,11 +13,11 @@ Best to run each problem pattern seperately so that it is easier to analyze. It 
 {{% /notice %}}
 
 ### Problem Pattern #1: CPULoadJourneyService
-Causes a response time issue impacting multiple services. Root cause is checkDesination Service in Journey Service from a high CPU function call.
+This plugin causes additional high CPU usage when searching for a journey.  It is executed a number of times, regardless whether the requested journey is found or not.
 
 ```
 cd ~/modernize-workshop-setup
-./setProblemPattern-SlowApacheWebserver.sh
+./setProblemPattern-CPULoadJourneyService.sh
 ```
 
 {{% notice info %}}
