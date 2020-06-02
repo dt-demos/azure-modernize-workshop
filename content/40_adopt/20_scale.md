@@ -15,7 +15,7 @@ The intermediate step will be to support his developments efforts:
 
 The final step be to put on Azure Kubernetes Service (AKS) and Azure Cosmos DB once the Cloud operations team has complete their certification of AKS and Cosmos.
 
-![image](/images/adapt-microservices.png)
+![image](/images/adapt-docker.png)
 
 ## Lets see what it looks like
 
