@@ -9,7 +9,7 @@ weight = 20
 For this workshop you will use a 15-day free Dynatrace evaluation of the full feature set of our all-in-one performance monitoring platform. Once you sign up, you will be sent a confirmation email and it will then take about 5 minutes to provision your Dynatrace tenant.
 
 <p style="text-align:center;">
-{{% button href="https://www.dynatrace.com/trial/" %}}Start free trial{{% /button %}}
+{{% button href="https://www.dynatrace.com/trial/?utm_medium=alliance&utm_source=azure&utm_campaign=website&utm_content=none&utm_term=none" %}}Start free trial{{% /button %}}
 
 <hr>
 <p style="text-align:center;">
